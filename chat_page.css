@@ -1,0 +1,19 @@
+.remove{
+    width: 100px;
+    background-color: rgb(255, 102, 0);
+   
+}
+body{
+    background-color: aquamarine;
+}
+.snd{
+    background-color: green;
+    width: 100px;
+}
+.message{
+    background-color: darksalmon;
+}
+html,label{
+    background-color:cornflowerblue;
+    
+}
